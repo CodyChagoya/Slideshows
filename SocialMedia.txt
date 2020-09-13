@@ -1,0 +1,30 @@
+---
+layout: slide
+title: "Rise of Social Media"
+---
+
+---
+layout: slide
+title: "Social Media "
+---
+> Social Media began with the growth of Web 2.0
+> Web 2.0 enabled users to write their own codes. In the early stages, examples included blogs and wiki pages.
+
+---
+layout: slide
+title: "Mobile"
+---
+> In 2020, it is common and expected that everyone has a smartphone.
+> With smartphones, more users are able to communicate and interact with each other.
+
+---
+layout: slide
+title: Monetize
+---
+> As more users continue to interact with each, content like videos and music can be easily shared. Creators are now able to gain sponsors if their content has a high chance of going viral. 
+
+---
+layout: slide
+title: Data
+---
+> Companies also have contributed to the rise of social media. They gear their ads towards their audience so they can collect data on them. As more companies continue to grow, they want their customers to follow them and share their content (free advertising).  
